@@ -1,5 +1,5 @@
 ## Prediction of Crohn's disease from radiomic features of bowel and mesenteric fat
-This is the github repo containing code from the manuscript, . Raw images, radiomic features, and clinical data are omitted from the repository due to IRB constraints. Please contact the corresponding author, Dr. Jonathan Dillman, to discuss data sharing.
+This is the github repo containing code from the manuscript, **Machine Learning Diagnosis of Small Bowel Crohn’s Disease using T2-weighted MRI Radiomic and Clinical Data: A Pilot Study**. Raw images, radiomic features, and clinical data are omitted from the repository due to IRB constraints. Please contact the corresponding author, Dr. Jonathan Dillman, to discuss data sharing.
 
 This project uses radiomic features from 4 regions of interest (ROI) from mesenteric fat and terminal ileum to classify Crohn's disease. The four regions are the whole bowel, bowel core, whole fat, and fat core, the details of which are described in the manuscript.
 
